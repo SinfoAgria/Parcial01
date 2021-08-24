@@ -1,12 +1,12 @@
-Metodo1
+Método1
 .
 .
 .
-Metodo2
+Método2
 .
 .
 .
-Metodo3
+Método3
 .
 .
 .
