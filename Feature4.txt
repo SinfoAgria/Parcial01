@@ -3,3 +3,7 @@ Método1
 .
 .
 Método2
+.
+.
+.
+Método3
